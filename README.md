@@ -1,2 +1,2 @@
 # myProjects
-This is my 'Frontend projects' repository.
+Repository of the projects related to 'Frontend Development'.
