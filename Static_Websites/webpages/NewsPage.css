@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Nbac_img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 90vh;
+    width: 65vh;
+    margin: auto;
+    margin-top: 10px;
+    background-size: cover;
+}
+
+.N-card {
+    background-color: #ffffff;
+    width: 100%;
+    height: 280px;
+    border-radius: 20px 20px 0px 0px;
+    padding: 30px;
+}
+
+.Npara1 {
+    color: #7b8794;
+    font-family: "Roboto";
+}
+
+.Npara2 {
+    font-size: 16px;
+}
+
+.N-h1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.Nbutn {
+    color: #ffffff;
+    background-color: #323f4b;
+    border: 0px;
+    border-radius: 8px;
+    width: 138px;
+    height: 42px;
+    font-family: "Roboto";
+    margin-bottom: 10px;
+}

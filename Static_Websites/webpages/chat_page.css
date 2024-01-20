@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.bac-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    background-size: cover;
+    height: 80%;
+    width: 42%;
+    margin: auto;
+}
+
+.headbar {
+    font-size: 12px;
+    background-color: #323f4b;
+    padding: 3px;
+}
+
+.chat-container {
+    padding: 15px;
+}
+
+.chat-container div:nth-of-type(2n+1) {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.chat-container div:nth-of-type(2n) {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.sender {
+    background-color: #47a3f3;
+    text-align: right;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 40px;
+    padding-top: 15px;
+    padding-right: 15px;
+    width: 400px;
+}
+
+.Reciever {
+    background-color: #52606d;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    height: 40px;
+    width: 400px;
+    text-align: left;
+}

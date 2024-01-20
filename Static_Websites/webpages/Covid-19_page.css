@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    font-family: "Roboto";
+}
+
+.Cpg-container {
+    padding: 2rem;
+    margin: auto;
+    height: 90vh;
+    width: 72vh;
+}
+
+h1 {
+    color: #323f4b;
+}
+
+.C-h1 {
+    font-size: 1.7rem;
+}
+
+.Ch1 {
+    font-size: 1.3rem;
+}
+
+.butn {
+    border-radius: 0.5rem;
+    background-color: #0967d2;
+}
+
+.Ctest-card {
+    background-color: #0967d219;
+    margin: 2rem 0 1rem 0;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.img {
+    width: 4rem;
+    height: 4rem;
+    margin: 0.5rem 1.5rem 0.5rem 0.5rem;
+}
+
+.C-h2 {
+    font-size: 1.4rem;
+    color: #323f4b;
+}
+
+.C-p {
+    color: #707070;
+    font-weight: 500;
+}
+
+.Csym {
+    height: 6rem;
+    width: 5.4rem;
+    border-radius: 0.7rem;
+    margin: 1rem 1rem 2rem 0;
+    text-align: center;
+}
+
+.Csym-1 {
+    background-color: #3ebd93;
+}
+
+.Csym-2 {
+    background-color: #e668a7;
+}
+
+.Csym-3 {
+    background-color: #a368fc;
+}
+
+.p-sym {
+    font-size: 0.8rem;
+    color: #ffffff;
+}
+
+.img-3 {
+    height: 3rem;
+    width: 3rem;
+    margin: 0.6rem 0.6rem 0.3rem 0.6rem;
+}
+
+.Cvid-card {
+    background-color: #e12d3919;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1.3rem 0 1rem 0;
+}

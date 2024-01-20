@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+    font-family: "Roboto";
+}
+
+.Cp-colorTop {
+    background-color: #fb4e71;
+    padding: 20px;
+    margin: auto;
+    height: 25vh;
+    width: 60vh;
+}
+
+.Cp-colorBot {
+    background-color: #e6f6ff;
+    padding: 20px;
+    margin: auto;
+    height: 75vh;
+    width: 60vh;
+}
+
+.Cp-h1 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.Cp-h1,
+.Cp-p1 {
+    color: #ffffff;
+}
+
+.Cp-img1,
+.Cp-img2 {
+    height: 100%;
+}
+
+.Cp-h2 {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.Cp-card {
+    background-color: #ffffff;
+    border-radius: 16px;
+    margin: 10px 0px 10px 0px;
+}
+
+.Cp-h3 {
+    font-size: 16px;
+    margin: 10px;
+    font-weight: lighter;
+}
+
+.Cp-p2 {
+    color: #888888;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.img-container {
+    padding-top: 10px;
+}
+
+.Cp-img3 {
+    width: 126px;
+    margin-right: 12px;
+}
+
+.Cp-p3 {
+    transform: scale(0.9, 0.8);
+}
+
+.Cp-butnBox {
+    text-align: center;
+}
